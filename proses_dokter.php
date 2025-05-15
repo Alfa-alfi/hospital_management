@@ -85,5 +85,3 @@ if (isset($_POST['update'])) {
     header('Location: dokter.php');
     exit();
 }
-
-
